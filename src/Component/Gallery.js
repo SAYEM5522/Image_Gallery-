@@ -79,7 +79,7 @@ const Gallery = () => {
   return (
     <div className="flex flex-col justify-center items-center h-screen w-screen">
     
-    <div className="xl:w-[56%] lg:w-[70%] md:w-[90%] sm:w-[95%] w-[90%] overflow-y-auto mb-14 overflow-x-hidden [&::-webkit-scrollbar]:hidden   h-[80%] rounded-md border border-[whitesmoke] bg-white shadow-1">
+    <div className="xl:w-[56%] lg:w-[70%] md:w-[90%] sm:w-[95%] w-[90%] overflow-y-auto mb-14 overflow-x-hidden [&::-webkit-scrollbar]:hidden   h-[85%] rounded-md border border-[whitesmoke] bg-white shadow-1">
     <div className=' border-b px-5 py-3 w-full flex items-center justify-between '>
       <div>
        {

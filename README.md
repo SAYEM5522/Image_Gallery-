@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Task for the `Fresher React JS Developers`
+----
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective:
+Create a responsive image gallery using React JS with the following features: reordering, deleting multiple images, and setting a feature image. The gallery should be visually appealing and provide a seamless user experience.
+## Live Link:
+https://image-gallery-sayem5522.vercel.app/
+## Task Requirements:
+1. **Gallery Layout:**
+   - Implement a grid layout for the image gallery.
+   - The gallery should display images with one feature image larger than the others.
+2. **Sorting:**
+   - Enable reordering functionality to allow users to rearrange the order of images in the gallery.
+   - Implement drag-and-drop functionality or any other intuitive method for reordering.
+3. **Deleting Multiple Images:**
+   - Allow users to select multiple images and delete them.
+   - Provide a clear visual indication of selected images.
+4. **Setting Feature Image:**
+   - Allow users to set a feature image by sorting.
+   - Pretend the first image (from the LTR direction) as the featured image
+   - The feature image should be visually distinct from the other images.
+5. **User Experience:**
+   - Ensure a smooth and responsive user experience.
+   - Implement transitions or animations for a polished look and feel.
+6. **Live Demo:**
+   - Host your React JS image gallery on any platform of your choice.
+   - Share the live URL of your task with us for assessment.
+   - Our verdict would be considered as rejected if your live URL link does not work.
 
-## Available Scripts
+## Guidelines:
+- Use React JS for building the image gallery.
+- You are free to use any additional libraries or frameworks as needed.
+- Please do not use any image gallery library
+- Pay attention to code organization, readability, and best practices.
+- Include comments or documentation as necessary for clarity.
+- Ensure responsiveness for various screen sizes.
 
-In the project directory, you can run:
 
-### `npm start`
+## Submission:
+Provide us with the following:
+- The source code of your React JS project through any version control software (Github, Gitlab, etc)
+- A live URL where we can interact with your image gallery.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Note:
+Feel free to showcase your creativity and React JS skills in the implementation of the image gallery. We look forward to seeing your work!
